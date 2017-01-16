@@ -115,6 +115,12 @@
 			<version>1.7.7</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.github.javaparser</groupId>
+			<artifactId>javaparser-core</artifactId>
+			<version>3.0.0</version>
+		</dependency>
+
 				<!-- TESTING -->
 		<dependency>
 			<groupId>junit</groupId>
